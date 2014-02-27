@@ -6,7 +6,7 @@ App/
 ├── models/
 ├── helpers/
 ├── public/
-│     ├── assets/ 
+│     └── assets/ 
 │           ├── css/
 │           ├── images/
 │           └── js/ 

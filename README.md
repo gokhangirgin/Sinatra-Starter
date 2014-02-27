@@ -14,5 +14,5 @@ App/
 ```
 
 ```
-  rackup -p PORT
+ $ rackup -p PORT
 ```

@@ -1,5 +1,6 @@
 Sinatra-Starter
 ===
+```
 App/
 ├── controllers/
 ├── models/
@@ -10,6 +11,7 @@ App/
 │           ├── images/
 │           └── js/ 
 └── views/
+```
 
 ```
   rackup -p PORT
